@@ -27,6 +27,9 @@
     <ClInclude Include="Solution001.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="Solution002.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
@@ -36,6 +39,9 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="Solution001.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Solution002.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
